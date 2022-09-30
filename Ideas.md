@@ -16,6 +16,7 @@
 - [ ] Shopping Cart with electric Motors which is remote controlled
 - [ ] Soapbox from a Garbagecan
 - [ ] Mini-Radar
+- [ ] Drivable Factory-Cart from Satisfactory
 
 ### **Project Ideas for Games:**
 - [ ] Eruption - A hot Mess
