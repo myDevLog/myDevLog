@@ -19,5 +19,5 @@
 - [ ] Drivable Factory-Cart from Satisfactory
 
 ### **Project Ideas for Games:**
-- [ ] Eruption - A hot Mess
-- [ ] Under Pressure
+- [ ] Eruption - A hot Mess (Inspired by the old flashgame "Supervulkan")
+- [ ] Under Pressure (Inspired by the old flashgame "Treasure Seas Inc")
